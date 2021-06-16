@@ -1,5 +1,5 @@
 # Financial-Inclusion-Project
-Predicting which individuals are most likely to have a bank account
+Predicting which individuals are most likely to have a bank account by comparing the PCA and LDA dimensionality reduction techniques
 # Dataset
 The main dataset contains demographic information and what financial services are used by individuals across East Africa. This data was extracted from various Finscope surveys ranging from 2016 to 2018, and more information about these surveys can be found here:
 
